@@ -1,4 +1,5 @@
 # development-tools.net-python-deobfuscator
+## by CSEC - ent1tydev
 
 **Usage: python3 deobfuscator.py -f filename_to_deobfuscate.py**
 
